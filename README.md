@@ -6,6 +6,9 @@
 Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
 ## Data-set
 1. PR-FSAD
+  - 3가지 각도(Bottom, Middle, Top) / 3가지 거리(Near, Middle, Distant)
+  - 다양한 조명, 환경
+  - 2가지 공격유형(print, replay)
 2. CASIA-FASD
 3. Replay-Attack
 
