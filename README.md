@@ -20,15 +20,27 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
 
 <table>
   <tr>
-    <td>내용</td>
-    <td>내용</td>
+    <td rowspan="2", colspan="2">Protocol</td>
+    <td colspan="3">ResNet18</td>
+    <td colspan="3">DenseNet121</td>  
   </tr>
   <tr>
-    <td colspan="2">내용</td>
+    <td colspan="1">Precision</td>
+    <td>Recall</td>
+    <td>Acc</td>  
+    <td colspan="1">Precision</td>
+    <td>Recall</td>
+    <td>Acc</td>  
   </tr>
+  <tr>
+      <td rowspan="3"> Protocol1</td>
+      <td>Top</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
 </table>
 
-
-|Protocol|상세|Precision|recall|Acc|
-|---|---|---|---|---|
-|3|Total|
