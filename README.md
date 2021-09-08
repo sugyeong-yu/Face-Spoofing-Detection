@@ -42,5 +42,24 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
       <td></td>
       <td></td>
     </tr>
+      <tr>
+      <td>Middle</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+        </tr>
+      <tr>
+      <td>Bottom</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
 </table>
 
