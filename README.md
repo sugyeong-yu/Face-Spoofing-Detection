@@ -62,6 +62,16 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
       <td></td>
     </tr>
       <tr>
+      <td> Protocol3</td>
+      <td>Total</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>97.66%</td>
+      <td>0.9543</td>
+      <td>0.9766</td>
+    </tr>
+      <tr>
       <td rowspan="2"> Protocol4</td>
       <td>CASIA-FASD</td>
       <td></td>
