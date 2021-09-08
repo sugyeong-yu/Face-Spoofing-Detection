@@ -97,4 +97,6 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
 |---|---|---|---|
 |Resnet50||||
 |Resnet?||||
-|Densenet169||||
+|Densenet169|0.9361|0.9673|96.73|
+
+- Densenet169 : batch8, lr0.001
