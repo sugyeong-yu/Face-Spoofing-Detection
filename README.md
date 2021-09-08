@@ -92,3 +92,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
     </tr>
 </table>
 
+
+|other Model|Precision|Recall|ACC|
+|---|---|---|---|
+|Resnet50||||
+|Resnet?||||
+|Densenet169||||
