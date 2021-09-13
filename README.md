@@ -38,9 +38,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.9601</td>
+      <td>0.9796</td>
+      <td>97.96</td>
     </tr>
       <tr>
       <td>Middle</td>
