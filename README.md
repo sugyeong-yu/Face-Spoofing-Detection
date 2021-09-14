@@ -44,7 +44,7 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
     </tr>
       <tr>
       <td>Middle</td>
-      <td>90.52</td>
+      <td>90.52%</td>
       <td>95.03%</td>
       <td>95.03%</td>
       <td>93.25%</td>
