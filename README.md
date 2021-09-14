@@ -73,9 +73,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
     </tr>
       <tr>
       <td>Distance</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>91.63%</td>
+      <td>95.61%</td>
+      <td>95.62%</td>
       <td>92.13%</td>
       <td>95.93%</td>
       <td>95.91%</td>
