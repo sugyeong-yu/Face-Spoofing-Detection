@@ -35,9 +35,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
   <tr>
       <td rowspan="3"> Protocol1</td>
       <td>Top</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>94.92%</td>
+      <td>97.39%</td>
+      <td>97.39%</td>
       <td>96.01%</td>
       <td>97.96%</td>
       <td>97.96%</td>
