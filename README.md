@@ -106,9 +106,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>99.90%</td>
+      <td>99.97%</td>
+      <td>99.97%</td>
     </tr>
 </table>
 
@@ -122,5 +122,5 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
 - resnet18 : batch16, lr0.001
 - resnet50 : batch8, lr0.001
 - resnet101 : batch8, lr0.001
-- Densenet121 : batch8, lr0.001
+- Densenet121 : batch8, lr0.001 (replay : batch16, lr0.01)
 - Densenet169 : batch16, lr0.001
