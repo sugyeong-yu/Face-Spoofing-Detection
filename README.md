@@ -103,9 +103,9 @@ Deep-Learning Model을 이용하여 Face spoofing attack을 detect 한다.
     </tr>
       <tr>
       <td>Replay-Attack</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>99.69%</td>
+      <td>99.90%</td>
+      <td>99.90%</td>
       <td>99.90%</td>
       <td>99.97%</td>
       <td>99.97%</td>
